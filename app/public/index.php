@@ -29,8 +29,8 @@ $title = 'A Creative Agency';
 			}
 
 			.logo {
-				width:487px;
-				height:301px;
+				width:400px;
+				height:235px;
 				overflow:hidden;
 				background-image: url("freshjones.png");
 				background-position: 0 0;
@@ -39,8 +39,8 @@ $title = 'A Creative Agency';
 			}
 
 			.title {
-				font-size: 24px;
-				margin-top:50px;
+				font-size: 35px;
+				margin-top:40px;
 			}
 
 		</style>
