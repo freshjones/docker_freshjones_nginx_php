@@ -1,9 +1,9 @@
 <?php
-$title = 'FreshJones Creative Agency';
+$title = 'A Creative Agency';
 ?>
 <html>
 	<head>
-		<link href='http://fonts.googleapis.com/css?family=Lato:100' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
 
 		<style>
 			body {
@@ -40,7 +40,7 @@ $title = 'FreshJones Creative Agency';
 
 			.title {
 				font-size: 24px;
-				margin-top:10px
+				margin-top:50px;
 			}
 
 		</style>
